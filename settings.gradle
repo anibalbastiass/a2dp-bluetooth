@@ -1,1 +1,2 @@
+include ':a2dp'
 include ':app'
